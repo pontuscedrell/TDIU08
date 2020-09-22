@@ -1,3 +1,3 @@
 # TDIU08
 
-Här finns mina labbar som jag gjort i kursen TDIU08 som jag laddat upp till Git för min egna skull
+Det här är mina filer som jag gjort under labbarna i kursen *TDIU08*.  Jag har inte orkat lusläsa allihopa så att de är helt felfria men de ska funka att köra iaf hyfsat felfritt. 
