@@ -52,7 +52,7 @@ procedure Labb2c_Bilen is
    
 begin
    
-   Put("F�rst k�r vi str�ckan S1 (i mil): ");
+   Put("Först kör vi sträckan S1 (i mil): ");
    Get(S1);
    Skip_Line; 
    
@@ -60,7 +60,7 @@ begin
    Get(T1);
    Skip_Line;
    
-   Put("Nu k�r vi str�ckan S2 (i mil): ");
+   Put("Nu kör vi sträckan S2 (i mil): ");
    Get(S2);
    Skip_Line;
    
@@ -79,14 +79,14 @@ begin
    Put(" liter / mil.");
    New_Line;
    
-   Put("Ur tanken saknades det fr�n b�rjan ");
+   Put("Ur tanken saknades det från början ");
    Put(T0,1,2,0);
    Put(" liter");
    New_Line;
    
-   Put("vi k�r sedan exakt ");
+   Put("vi kör sedan exakt ");
    Put(S3,1,2,0);
-   Put(" mil och l�mnar bilen d�r");
+   Put(" mil och lämnar bilen där");
    
 end Labb2c_Bilen;
   
