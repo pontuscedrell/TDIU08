@@ -16,7 +16,7 @@ procedure Labb1_momstabell is
 begin
    
     
-  -- InLasning("F�rsta pris: ", in Svar);
+  -- InLasning("Första pris: ", in Svar);
    Get(Forsta_Pris);
    Skip_Line;
    
